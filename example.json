@@ -1,0 +1,14 @@
+{
+  "MUNICIPALITYNAME": "Antwerpen",
+  "STREETNAME": "Markt",
+  "HOUSENUMBER": "1",
+  "ZIPCODE": 2000,
+	"X": 51.2771651,
+	"Y": 4.4155523,
+	"PROVINCE": "Antwerpen",
+	"REGION": "Vlaanderen",
+	"LANGUAGE": "nl",
+	"ENTERPRISES": {
+		"_HREF": "http://apilab.pimmoerman.nl/api/kbo/antwerpen/markt/1",
+	},	
+}
