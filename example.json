@@ -1,8 +1,8 @@
 {
-  "MUNICIPALITYNAME": "Antwerpen",
-  "STREETNAME": "Markt",
-  "HOUSENUMBER": "1",
-  "ZIPCODE": 2000,
+	"MUNICIPALITYNAME": "Antwerpen",
+	"STREETNAME": "Markt",
+	"HOUSENUMBER": "1",
+	"ZIPCODE": 2000,
 	"X": 51.2771651,
 	"Y": 4.4155523,
 	"PROVINCE": "Antwerpen",
